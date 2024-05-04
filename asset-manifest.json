@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/seeking-the-path/static/css/main.7625b265.css",
-    "main.js": "/seeking-the-path/static/js/main.6d9e6b8a.js",
+    "main.js": "/seeking-the-path/static/js/main.915e12f9.js",
     "static/media/background.png": "/seeking-the-path/static/media/background.3760b3159e7aede175b5.png",
     "static/media/mountain_bush_1.png": "/seeking-the-path/static/media/mountain_bush_1.bbf90244a3eb49844243.png",
     "static/media/Where_is_the_Road.mp3": "/seeking-the-path/static/media/Where_is_the_Road.c409e95830b49ad4e56c.mp3",
@@ -43,10 +43,10 @@
     "static/media/vines_1.png": "/seeking-the-path/static/media/vines_1.d05d463881a5ccf38b13.png",
     "index.html": "/seeking-the-path/index.html",
     "main.7625b265.css.map": "/seeking-the-path/static/css/main.7625b265.css.map",
-    "main.6d9e6b8a.js.map": "/seeking-the-path/static/js/main.6d9e6b8a.js.map"
+    "main.915e12f9.js.map": "/seeking-the-path/static/js/main.915e12f9.js.map"
   },
   "entrypoints": [
     "static/css/main.7625b265.css",
-    "static/js/main.6d9e6b8a.js"
+    "static/js/main.915e12f9.js"
   ]
 }
